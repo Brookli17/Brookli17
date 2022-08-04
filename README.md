@@ -1,4 +1,4 @@
-<center><img  alt="coding" width="400px"  src=""></center>
+<center><img  alt="coding" width="100%"  src="Picsart_22-08-02_17-03-41-704.jpg"></center>
 <h1 align="center">Hi 👋, I'm darshan kalambe</h1>
 <h3 align="center">Core Java | Servlet Jsp| Spring boot | SQL | Web Developer | Web Designer| gamer</h3>
 <img align = "right" alt="coding" width="400px"  src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
